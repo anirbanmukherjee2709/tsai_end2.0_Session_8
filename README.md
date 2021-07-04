@@ -21,9 +21,9 @@ which used legacy Pytorch code and rewrite them using the latest libraries of Py
 
 # Solution
 Both code-bases were attempted and thus re-written with the latest Pytorch libraries. 
-Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation- 
+Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation- https://github.com/anirbanmukherjee2709/tsai_end2.0_Session_8/blob/main/Session_8_part_I.ipynb
 
-Neural Machine Translation by Jointly Learning to Align and Translate- 
+Neural Machine Translation by Jointly Learning to Align and Translate- https://github.com/anirbanmukherjee2709/tsai_end2.0_Session_8/blob/main/Session_8_part_II.ipynb
 
 
 # Team
